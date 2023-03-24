@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "quickNmix"]
+	path = quickNmix
+	url = https://github.com/cran/quickNmix
+	shallow = true
+	registered = true
